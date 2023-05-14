@@ -1,0 +1,3 @@
+﻿  game_of_life.cpp
+C:\Users\Matko\Desktop\SPA-DZ-02-Prilozi\Matko Plecas - DZ02\DZ2\game_of_life.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DZ2.vcxproj -> C:\Users\Matko\Desktop\SPA-DZ-02-Prilozi\Matko Plecas - DZ02\x64\Debug\DZ2.exe
